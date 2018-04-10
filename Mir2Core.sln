@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mir2Core", "Mir2Core\Mir2Core.csproj", "{FE5C81F2-1B90-4124-B64E-9B515080F3D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE5C81F2-1B90-4124-B64E-9B515080F3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5C81F2-1B90-4124-B64E-9B515080F3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5C81F2-1B90-4124-B64E-9B515080F3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5C81F2-1B90-4124-B64E-9B515080F3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E984CFB9-9885-4933-9F83-90D536EE57F7}
+	EndGlobalSection
+EndGlobal
